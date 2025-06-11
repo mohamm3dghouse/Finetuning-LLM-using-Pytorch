@@ -1,0 +1,12 @@
+# Hugging Face tools
+huggingface_hub
+datasets
+trl
+bitsandbytes
+feedparser
+
+# PyTorch with CUDA 12.0 (adjust version if needed)
+torch==2.3.0+cu120
+torchvision==0.18.0+cu120
+torchaudio==2.3.0+cu120
+
