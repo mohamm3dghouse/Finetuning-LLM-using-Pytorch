@@ -9,3 +9,5 @@ The pipeline includes:
 - Evaluation and predictions
 
 The goal is to build a custom classifier that can automatically tag new paper abstracts with their correct subject area.
+
+Two approaches are explored: **Supervised Fine-Tuning (SFT)**  for direct classification and Finetuning through **Reinforcement learning** (using GRPO algorithm to induce reasoning traces and predict correct category).
